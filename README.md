@@ -1,21 +1,15 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="UTF-8">
 </head>
-
 <body>
-
-<h3>Hi 👋! My name is Astridalia, and I'm an independent developer!</h3>
-
+<h3 align="center">Hi 👋! My name is Astridalia, and I'm an independent developer!</h3>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=astridalia&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astridalia&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
-
-<img align="left" height="50" src="https://pa1.narvii.com/5802/be529a66b84b37eaa73386c92f0c2886737cf5ff_128.gif" alt="Dragonite sprite" />
-
+<img align="left" height="50" src="https://i.pinimg.com/originals/55/f0/c0/55f0c002c2627af58ccaaf11d3bc4c41.gif" alt="Gengar sprite" />
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
@@ -27,7 +21,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="30" alt="twitter logo" />
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="30" alt="discord logo" />
 </div>
-
 </body>
 
 </html>

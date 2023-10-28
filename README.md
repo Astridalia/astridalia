@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="UTF-8">
-    <title>Astridalia - Independent Developer</title>
-</head>
 <body>
 
 <h2>Hi 👋! My name is Astridalia, and I'm an independent developer!</h2>

@@ -46,8 +46,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/astridalia/astridalia/output/snake.svg" alt="Snake animation" />
 
 ###

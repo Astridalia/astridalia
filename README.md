@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-<h3 align="center">🦇 Greetings! 👻 I am Astridalia, a solitary developer of the arcane arts! 🧙‍♂️</h3>
+<h3 align="center">Greetings! I am Astridalia!</h3>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=astridalia&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=astridalia&layout=compact&card_width=320&langs_count=5&hide_border=true" height="150" alt="Top languages" />
